@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtuesimerkki.StatisticsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-04-16T19:03:29" hostname="matias-MACH-WX9" time="0.005">
+  <properties/>
+  <testcase name="tehokkainPelaajaHaetaanOikein" classname="ohtuesimerkki.StatisticsTest" time="0.003"/>
+  <testcase name="konstruktori" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <testcase name="vaaraHakuPalauttaaTyhjan" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <testcase name="joukkueenPelaajatHaetaanOikein" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <testcase name="hakuToimiiOikein" classname="ohtuesimerkki.StatisticsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
